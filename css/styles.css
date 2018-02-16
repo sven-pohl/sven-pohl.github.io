@@ -2,8 +2,11 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: #528ca5;
+    color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lobster', cursive;
+    color: #fff;
 }
